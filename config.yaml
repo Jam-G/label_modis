@@ -1,0 +1,5 @@
+
+modis_path: /home/chensy/SouthPoleFile/EnhancedTrainingMODIS
+crop_size: 20
+random_zone: 100
+random_num: 10
